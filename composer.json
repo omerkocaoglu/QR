@@ -1,0 +1,19 @@
+{
+  "name": "omerkocaoglu/qr",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Omer Kocaoglu",
+      "email": "okocaoglu05@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "OmerKocaoglu\\QR\\": "src"
+    }
+  },
+  "require": {
+    "endroid/qr-code": "^3.2"
+  }
+}
